@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey this is Ervin! Welcome to my Repository
+![image](https://github.com/EcVp3/EcVp3/assets/161505121/02d1aac9-513b-4e85-a018-51c63723eaa5)
 
-<!--
-**EcVp3/EcVp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Im a student at Miami dade college, I enjoy nature, music, and computer science
+## My projects
+My tech stack
+- HTML
+- Css
+- JavaScript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Website Portfolio
+ Click on this link to check out my Portfolio! [google](https://www.google.com)
